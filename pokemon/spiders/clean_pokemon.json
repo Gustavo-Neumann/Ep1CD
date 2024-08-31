@@ -1,0 +1,1323 @@
+[
+    {
+        "number": 1,
+        "name": "Bulbasaur",
+        "url": "https://pokemondb.net/pokedex/bulbasaur",
+        "types": "Grass, Poison",
+        "height_cm": "70.0 cm",
+        "weight_kg": "6.9 kg",
+        "next_evolutions": "#0001 - Bulbasaur - https://pokemondb.net/pokedex/bulbasaur; #0002 - Ivysaur - https://pokemondb.net/pokedex/ivysaur; #0003 - Venusaur - https://pokemondb.net/pokedex/venusaur",
+        "abilities": [
+            {
+                "name": "Overgrow",
+                "url": "https://pokemondb.net/ability/overgrow",
+                "description": "Ups GRASS moves in a pinch."
+            },
+            {
+                "name": "Chlorophyll",
+                "url": "https://pokemondb.net/ability/chlorophyll",
+                "description": "Raises SPEED in sunshine."
+            }
+        ]
+    },
+    {
+        "number": 5,
+        "name": "Charmeleon",
+        "url": "https://pokemondb.net/pokedex/charmeleon",
+        "types": "Fire",
+        "height_cm": "110.0 cm",
+        "weight_kg": "19.0 kg",
+        "next_evolutions": "#0004 - Charmander - https://pokemondb.net/pokedex/charmander; #0005 - Charmeleon - https://pokemondb.net/pokedex/charmeleon; #0006 - Charizard - https://pokemondb.net/pokedex/charizard",
+        "abilities": [
+            {
+                "name": "Blaze",
+                "url": "https://pokemondb.net/ability/blaze",
+                "description": "Ups FIRE moves in a pinch."
+            },
+            {
+                "name": "Solar Power",
+                "url": "https://pokemondb.net/ability/solar-power",
+                "description": "Boosts Sp. Atk, but lowers HP in sunshine."
+            }
+        ]
+    },
+    {
+        "number": 9,
+        "name": "Blastoise",
+        "url": "https://pokemondb.net/pokedex/blastoise",
+        "types": "Water",
+        "height_cm": "160.0 cm",
+        "weight_kg": "85.5 kg",
+        "next_evolutions": "#0007 - Squirtle - https://pokemondb.net/pokedex/squirtle; #0008 - Wartortle - https://pokemondb.net/pokedex/wartortle; #0009 - Blastoise - https://pokemondb.net/pokedex/blastoise",
+        "abilities": [
+            {
+                "name": "Torrent",
+                "url": "https://pokemondb.net/ability/torrent",
+                "description": "Ups WATER moves in a pinch."
+            },
+            {
+                "name": "Rain Dish",
+                "url": "https://pokemondb.net/ability/rain-dish",
+                "description": "Slight HP recovery in rain."
+            },
+            {
+                "name": "Mega Launcher",
+                "url": "https://pokemondb.net/ability/mega-launcher",
+                "description": "Powers up aura and pulse moves."
+            }
+        ]
+    },
+    {
+        "number": 12,
+        "name": "Butterfree",
+        "url": "https://pokemondb.net/pokedex/butterfree",
+        "types": "Bug, Flying",
+        "height_cm": "110.0 cm",
+        "weight_kg": "32.0 kg",
+        "next_evolutions": "#0010 - Caterpie - https://pokemondb.net/pokedex/caterpie; #0011 - Metapod - https://pokemondb.net/pokedex/metapod; #0012 - Butterfree - https://pokemondb.net/pokedex/butterfree",
+        "abilities": [
+            {
+                "name": "Compound Eyes",
+                "url": "https://pokemondb.net/ability/compound-eyes",
+                "description": "Raises accuracy."
+            },
+            {
+                "name": "Tinted Lens",
+                "url": "https://pokemondb.net/ability/tinted-lens",
+                "description": "Powers up “not very effective” moves."
+            }
+        ]
+    },
+    {
+        "number": 13,
+        "name": "Weedle",
+        "url": "https://pokemondb.net/pokedex/weedle",
+        "types": "Bug, Poison",
+        "height_cm": "30.0 cm",
+        "weight_kg": "3.2 kg",
+        "next_evolutions": "#0013 - Weedle - https://pokemondb.net/pokedex/weedle; #0014 - Kakuna - https://pokemondb.net/pokedex/kakuna; #0015 - Beedrill - https://pokemondb.net/pokedex/beedrill",
+        "abilities": [
+            {
+                "name": "Shield Dust",
+                "url": "https://pokemondb.net/ability/shield-dust",
+                "description": "Prevents added effects."
+            },
+            {
+                "name": "Run Away",
+                "url": "https://pokemondb.net/ability/run-away",
+                "description": "Makes escaping easier."
+            }
+        ]
+    },
+    {
+        "number": 14,
+        "name": "Kakuna",
+        "url": "https://pokemondb.net/pokedex/kakuna",
+        "types": "Bug, Poison",
+        "height_cm": "60.0 cm",
+        "weight_kg": "10.0 kg",
+        "next_evolutions": "#0013 - Weedle - https://pokemondb.net/pokedex/weedle; #0014 - Kakuna - https://pokemondb.net/pokedex/kakuna; #0015 - Beedrill - https://pokemondb.net/pokedex/beedrill",
+        "abilities": [
+            {
+                "name": "Shed Skin",
+                "url": "https://pokemondb.net/ability/shed-skin",
+                "description": "Heals the body by shedding."
+            }
+        ]
+    },
+    {
+        "number": 15,
+        "name": "Beedrill",
+        "url": "https://pokemondb.net/pokedex/beedrill",
+        "types": "Bug, Poison",
+        "height_cm": "100.0 cm",
+        "weight_kg": "29.5 kg",
+        "next_evolutions": "#0013 - Weedle - https://pokemondb.net/pokedex/weedle; #0014 - Kakuna - https://pokemondb.net/pokedex/kakuna; #0015 - Beedrill - https://pokemondb.net/pokedex/beedrill",
+        "abilities": [
+            {
+                "name": "Swarm",
+                "url": "https://pokemondb.net/ability/swarm",
+                "description": "Ups BUG moves in a pinch."
+            },
+            {
+                "name": "Sniper",
+                "url": "https://pokemondb.net/ability/sniper",
+                "description": "Powers up moves if they become critical hits."
+            },
+            {
+                "name": "Adaptability",
+                "url": "https://pokemondb.net/ability/adaptability",
+                "description": "Powers up moves of the same type."
+            }
+        ]
+    },
+    {
+        "number": 17,
+        "name": "Pidgeotto",
+        "url": "https://pokemondb.net/pokedex/pidgeotto",
+        "types": "Normal, Flying",
+        "height_cm": "110.0 cm",
+        "weight_kg": "30.0 kg",
+        "next_evolutions": "#0016 - Pidgey - https://pokemondb.net/pokedex/pidgey; #0017 - Pidgeotto - https://pokemondb.net/pokedex/pidgeotto; #0018 - Pidgeot - https://pokemondb.net/pokedex/pidgeot",
+        "abilities": [
+            {
+                "name": "Keen Eye",
+                "url": "https://pokemondb.net/ability/keen-eye",
+                "description": "Prevents loss of accuracy."
+            },
+            {
+                "name": "Tangled Feet",
+                "url": "https://pokemondb.net/ability/tangled-feet",
+                "description": "Raises evasion if the Pokémon is confused."
+            },
+            {
+                "name": "Big Pecks",
+                "url": "https://pokemondb.net/ability/big-pecks",
+                "description": "Protects the Pokémon from Defense-lowering attacks."
+            }
+        ]
+    },
+    {
+        "number": 112,
+        "name": "Rhydon",
+        "url": "https://pokemondb.net/pokedex/rhydon",
+        "types": "Ground, Rock",
+        "height_cm": "190.0 cm",
+        "weight_kg": "120.0 kg",
+        "next_evolutions": "#0111 - Rhyhorn - https://pokemondb.net/pokedex/rhyhorn; #0112 - Rhydon - https://pokemondb.net/pokedex/rhydon; #0464 - Rhyperior - https://pokemondb.net/pokedex/rhyperior",
+        "abilities": [
+            {
+                "name": "Lightning Rod",
+                "url": "https://pokemondb.net/ability/lightning-rod",
+                "description": "Draws electrical moves."
+            },
+            {
+                "name": "Rock Head",
+                "url": "https://pokemondb.net/ability/rock-head",
+                "description": "Prevents recoil damage."
+            },
+            {
+                "name": "Reckless",
+                "url": "https://pokemondb.net/ability/reckless",
+                "description": "Powers up moves that have recoil damage."
+            }
+        ]
+    },
+    {
+        "number": 120,
+        "name": "Staryu",
+        "url": "https://pokemondb.net/pokedex/staryu",
+        "types": "Water",
+        "height_cm": "80.0 cm",
+        "weight_kg": "34.5 kg",
+        "next_evolutions": "#0120 - Staryu - https://pokemondb.net/pokedex/staryu; #0121 - Starmie - https://pokemondb.net/pokedex/starmie",
+        "abilities": [
+            {
+                "name": "Illuminate",
+                "url": "https://pokemondb.net/ability/illuminate",
+                "description": "Encounter rate increases."
+            },
+            {
+                "name": "Natural Cure",
+                "url": "https://pokemondb.net/ability/natural-cure",
+                "description": "Heals upon switching out."
+            },
+            {
+                "name": "Analytic",
+                "url": "https://pokemondb.net/ability/analytic",
+                "description": "Boosts move power when the Pokémon moves last."
+            }
+        ]
+    },
+    {
+        "number": 127,
+        "name": "Pinsir",
+        "url": "https://pokemondb.net/pokedex/pinsir",
+        "types": "Bug",
+        "height_cm": "150.0 cm",
+        "weight_kg": "55.0 kg",
+        "next_evolutions": "",
+        "abilities": [
+            {
+                "name": "Hyper Cutter",
+                "url": "https://pokemondb.net/ability/hyper-cutter",
+                "description": "Prevents ATTACK reduction."
+            },
+            {
+                "name": "Mold Breaker",
+                "url": "https://pokemondb.net/ability/mold-breaker",
+                "description": "Moves can be used regardless of abilities."
+            },
+            {
+                "name": "Moxie",
+                "url": "https://pokemondb.net/ability/moxie",
+                "description": "Boosts Attack after knocking out any Pokémon."
+            },
+            {
+                "name": "Aerilate",
+                "url": "https://pokemondb.net/ability/aerilate",
+                "description": "Normal-type moves become Flying-type moves."
+            }
+        ]
+    },
+    {
+        "number": 134,
+        "name": "Vaporeon",
+        "url": "https://pokemondb.net/pokedex/vaporeon",
+        "types": "Water",
+        "height_cm": "100.0 cm",
+        "weight_kg": "29.0 kg",
+        "next_evolutions": "#0133 - Eevee - https://pokemondb.net/pokedex/eevee; #0134 - Vaporeon - https://pokemondb.net/pokedex/vaporeon; #0135 - Jolteon - https://pokemondb.net/pokedex/jolteon; #0136 - Flareon - https://pokemondb.net/pokedex/flareon; #0133 - Eevee - https://pokemondb.net/pokedex/eevee; #0196 - Espeon - https://pokemondb.net/pokedex/espeon; #0197 - Umbreon - https://pokemondb.net/pokedex/umbreon; #0133 - Eevee - https://pokemondb.net/pokedex/eevee; #0470 - Leafeon - https://pokemondb.net/pokedex/leafeon; #0471 - Glaceon - https://pokemondb.net/pokedex/glaceon; #0133 - Eevee - https://pokemondb.net/pokedex/eevee; #0700 - Sylveon - https://pokemondb.net/pokedex/sylveon",
+        "abilities": [
+            {
+                "name": "Water Absorb",
+                "url": "https://pokemondb.net/ability/water-absorb",
+                "description": "Changes water into HP."
+            },
+            {
+                "name": "Hydration",
+                "url": "https://pokemondb.net/ability/hydration",
+                "description": "Heals status problems if it is raining."
+            }
+        ]
+    },
+    {
+        "number": 135,
+        "name": "Jolteon",
+        "url": "https://pokemondb.net/pokedex/jolteon",
+        "types": "Electric",
+        "height_cm": "80.0 cm",
+        "weight_kg": "24.5 kg",
+        "next_evolutions": "#0133 - Eevee - https://pokemondb.net/pokedex/eevee; #0134 - Vaporeon - https://pokemondb.net/pokedex/vaporeon; #0135 - Jolteon - https://pokemondb.net/pokedex/jolteon; #0136 - Flareon - https://pokemondb.net/pokedex/flareon; #0133 - Eevee - https://pokemondb.net/pokedex/eevee; #0196 - Espeon - https://pokemondb.net/pokedex/espeon; #0197 - Umbreon - https://pokemondb.net/pokedex/umbreon; #0133 - Eevee - https://pokemondb.net/pokedex/eevee; #0470 - Leafeon - https://pokemondb.net/pokedex/leafeon; #0471 - Glaceon - https://pokemondb.net/pokedex/glaceon; #0133 - Eevee - https://pokemondb.net/pokedex/eevee; #0700 - Sylveon - https://pokemondb.net/pokedex/sylveon",
+        "abilities": [
+            {
+                "name": "Volt Absorb",
+                "url": "https://pokemondb.net/ability/volt-absorb",
+                "description": "Turns electricity into HP."
+            },
+            {
+                "name": "Quick Feet",
+                "url": "https://pokemondb.net/ability/quick-feet",
+                "description": "Boosts Speed if there is a status problem."
+            }
+        ]
+    },
+    {
+        "number": 136,
+        "name": "Flareon",
+        "url": "https://pokemondb.net/pokedex/flareon",
+        "types": "Fire",
+        "height_cm": "90.0 cm",
+        "weight_kg": "25.0 kg",
+        "next_evolutions": "#0133 - Eevee - https://pokemondb.net/pokedex/eevee; #0134 - Vaporeon - https://pokemondb.net/pokedex/vaporeon; #0135 - Jolteon - https://pokemondb.net/pokedex/jolteon; #0136 - Flareon - https://pokemondb.net/pokedex/flareon; #0133 - Eevee - https://pokemondb.net/pokedex/eevee; #0196 - Espeon - https://pokemondb.net/pokedex/espeon; #0197 - Umbreon - https://pokemondb.net/pokedex/umbreon; #0133 - Eevee - https://pokemondb.net/pokedex/eevee; #0470 - Leafeon - https://pokemondb.net/pokedex/leafeon; #0471 - Glaceon - https://pokemondb.net/pokedex/glaceon; #0133 - Eevee - https://pokemondb.net/pokedex/eevee; #0700 - Sylveon - https://pokemondb.net/pokedex/sylveon",
+        "abilities": [
+            {
+                "name": "Flash Fire",
+                "url": "https://pokemondb.net/ability/flash-fire",
+                "description": "Powers up if hit by fire."
+            },
+            {
+                "name": "Guts",
+                "url": "https://pokemondb.net/ability/guts",
+                "description": "Ups ATTACK if suffering."
+            }
+        ]
+    },
+    {
+        "number": 169,
+        "name": "Crobat",
+        "url": "https://pokemondb.net/pokedex/crobat",
+        "types": "Poison, Flying",
+        "height_cm": "180.0 cm",
+        "weight_kg": "75.0 kg",
+        "next_evolutions": "#0041 - Zubat - https://pokemondb.net/pokedex/zubat; #0042 - Golbat - https://pokemondb.net/pokedex/golbat; #0169 - Crobat - https://pokemondb.net/pokedex/crobat",
+        "abilities": [
+            {
+                "name": "Inner Focus",
+                "url": "https://pokemondb.net/ability/inner-focus",
+                "description": "Prevents flinching."
+            },
+            {
+                "name": "Infiltrator",
+                "url": "https://pokemondb.net/ability/infiltrator",
+                "description": "Passes through the foe’s barrier and strikes."
+            }
+        ]
+    },
+    {
+        "number": 249,
+        "name": "Lugia",
+        "url": "https://pokemondb.net/pokedex/lugia",
+        "types": "Psychic, Flying",
+        "height_cm": "520.0 cm",
+        "weight_kg": "216.0 kg",
+        "next_evolutions": "",
+        "abilities": [
+            {
+                "name": "Pressure",
+                "url": "https://pokemondb.net/ability/pressure",
+                "description": "Raises foe’s PP usage."
+            },
+            {
+                "name": "Multiscale",
+                "url": "https://pokemondb.net/ability/multiscale",
+                "description": "Reduces damage when HP is full."
+            }
+        ]
+    },
+    {
+        "number": 292,
+        "name": "Shedinja",
+        "url": "https://pokemondb.net/pokedex/shedinja",
+        "types": "Bug, Ghost",
+        "height_cm": "80.0 cm",
+        "weight_kg": "1.2 kg",
+        "next_evolutions": "#0290 - Nincada - https://pokemondb.net/pokedex/nincada; #0291 - Ninjask - https://pokemondb.net/pokedex/ninjask; #0291 - Ninjask - https://pokemondb.net/pokedex/ninjask; #0292 - Shedinja - https://pokemondb.net/pokedex/shedinja",
+        "abilities": [
+            {
+                "name": "Wonder Guard",
+                "url": "https://pokemondb.net/ability/wonder-guard",
+                "description": "“Super effective” hits."
+            }
+        ]
+    },
+    {
+        "number": 335,
+        "name": "Zangoose",
+        "url": "https://pokemondb.net/pokedex/zangoose",
+        "types": "Normal",
+        "height_cm": "130.0 cm",
+        "weight_kg": "40.3 kg",
+        "next_evolutions": "",
+        "abilities": [
+            {
+                "name": "Immunity",
+                "url": "https://pokemondb.net/ability/immunity",
+                "description": "Prevents poisoning."
+            },
+            {
+                "name": "Toxic Boost",
+                "url": "https://pokemondb.net/ability/toxic-boost",
+                "description": "Powers up physical attacks when poisoned."
+            }
+        ]
+    },
+    {
+        "number": 377,
+        "name": "Regirock",
+        "url": "https://pokemondb.net/pokedex/regirock",
+        "types": "Rock",
+        "height_cm": "170.0 cm",
+        "weight_kg": "230.0 kg",
+        "next_evolutions": "",
+        "abilities": [
+            {
+                "name": "Clear Body",
+                "url": "https://pokemondb.net/ability/clear-body",
+                "description": "Prevents ability reduction."
+            },
+            {
+                "name": "Sturdy",
+                "url": "https://pokemondb.net/ability/sturdy",
+                "description": "Negates 1-hit KO attacks."
+            }
+        ]
+    },
+    {
+        "number": 382,
+        "name": "Kyogre",
+        "url": "https://pokemondb.net/pokedex/kyogre",
+        "types": "Water",
+        "height_cm": "450.0 cm",
+        "weight_kg": "352.0 kg",
+        "next_evolutions": "",
+        "abilities": [
+            {
+                "name": "Drizzle",
+                "url": "https://pokemondb.net/ability/drizzle",
+                "description": "Summons rain in battle."
+            },
+            {
+                "name": "Primordial Sea",
+                "url": "https://pokemondb.net/ability/primordial-sea",
+                "description": "Affects weather and nullifies any Fire-type attacks."
+            }
+        ]
+    },
+    {
+        "number": 384,
+        "name": "Rayquaza",
+        "url": "https://pokemondb.net/pokedex/rayquaza",
+        "types": "Dragon, Flying",
+        "height_cm": "700.0 cm",
+        "weight_kg": "206.5 kg",
+        "next_evolutions": "",
+        "abilities": [
+            {
+                "name": "Air Lock",
+                "url": "https://pokemondb.net/ability/air-lock",
+                "description": "Negates weather effects."
+            },
+            {
+                "name": "Delta Stream",
+                "url": "https://pokemondb.net/ability/delta-stream",
+                "description": "Affects weather and eliminates all of the Flying type’s weaknesses."
+            }
+        ]
+    },
+    {
+        "number": 400,
+        "name": "Bibarel",
+        "url": "https://pokemondb.net/pokedex/bibarel",
+        "types": "Normal, Water",
+        "height_cm": "100.0 cm",
+        "weight_kg": "31.5 kg",
+        "next_evolutions": "#0399 - Bidoof - https://pokemondb.net/pokedex/bidoof; #0400 - Bibarel - https://pokemondb.net/pokedex/bibarel",
+        "abilities": [
+            {
+                "name": "Simple",
+                "url": "https://pokemondb.net/ability/simple",
+                "description": "The Pokémon is prone to wild stat changes."
+            },
+            {
+                "name": "Unaware",
+                "url": "https://pokemondb.net/ability/unaware",
+                "description": "Ignores any change in ability by the foe."
+            },
+            {
+                "name": "Moody",
+                "url": "https://pokemondb.net/ability/moody",
+                "description": "Raises one stat and lowers another."
+            }
+        ]
+    },
+    {
+        "number": 421,
+        "name": "Cherrim",
+        "url": "https://pokemondb.net/pokedex/cherrim",
+        "types": "Grass",
+        "height_cm": "50.0 cm",
+        "weight_kg": "9.3 kg",
+        "next_evolutions": "#0420 - Cherubi - https://pokemondb.net/pokedex/cherubi; #0421 - Cherrim - https://pokemondb.net/pokedex/cherrim",
+        "abilities": [
+            {
+                "name": "Flower Gift",
+                "url": "https://pokemondb.net/ability/flower-gift",
+                "description": "Powers up party Pokémon when it is sunny."
+            }
+        ]
+    },
+    {
+        "number": 436,
+        "name": "Bronzor",
+        "url": "https://pokemondb.net/pokedex/bronzor",
+        "types": "Steel, Psychic",
+        "height_cm": "50.0 cm",
+        "weight_kg": "60.5 kg",
+        "next_evolutions": "#0436 - Bronzor - https://pokemondb.net/pokedex/bronzor; #0437 - Bronzong - https://pokemondb.net/pokedex/bronzong",
+        "abilities": [
+            {
+                "name": "Levitate",
+                "url": "https://pokemondb.net/ability/levitate",
+                "description": "Not hit by GROUND attacks."
+            },
+            {
+                "name": "Heatproof",
+                "url": "https://pokemondb.net/ability/heatproof",
+                "description": "Weakens the power of Fire-type moves."
+            },
+            {
+                "name": "Heavy Metal",
+                "url": "https://pokemondb.net/ability/heavy-metal",
+                "description": "Doubles the Pokémon’s weight."
+            }
+        ]
+    },
+    {
+        "number": 491,
+        "name": "Darkrai",
+        "url": "https://pokemondb.net/pokedex/darkrai",
+        "types": "Dark",
+        "height_cm": "150.0 cm",
+        "weight_kg": "50.5 kg",
+        "next_evolutions": "",
+        "abilities": [
+            {
+                "name": "Bad Dreams",
+                "url": "https://pokemondb.net/ability/bad-dreams",
+                "description": "Reduces a sleeping foe’s HP."
+            }
+        ]
+    },
+    {
+        "number": 493,
+        "name": "Arceus",
+        "url": "https://pokemondb.net/pokedex/arceus",
+        "types": "Normal",
+        "height_cm": "320.0 cm",
+        "weight_kg": "320.0 kg",
+        "next_evolutions": "",
+        "abilities": [
+            {
+                "name": "Multitype",
+                "url": "https://pokemondb.net/ability/multitype",
+                "description": "Changes type to match the held Plate."
+            }
+        ]
+    },
+    {
+        "number": 494,
+        "name": "Victini",
+        "url": "https://pokemondb.net/pokedex/victini",
+        "types": "Psychic, Fire",
+        "height_cm": "40.0 cm",
+        "weight_kg": "4.0 kg",
+        "next_evolutions": "",
+        "abilities": [
+            {
+                "name": "Victory Star",
+                "url": "https://pokemondb.net/ability/victory-star",
+                "description": "Boosts the accuracy of its allies and itself."
+            }
+        ]
+    },
+    {
+        "number": 563,
+        "name": "Cofagrigus",
+        "url": "https://pokemondb.net/pokedex/cofagrigus",
+        "types": "Ghost",
+        "height_cm": "170.0 cm",
+        "weight_kg": "76.5 kg",
+        "next_evolutions": "#0562 - Yamask - https://pokemondb.net/pokedex/yamask; #0563 - Cofagrigus - https://pokemondb.net/pokedex/cofagrigus; #0562 - Yamask - https://pokemondb.net/pokedex/yamask; #0867 - Runerigus - https://pokemondb.net/pokedex/runerigus",
+        "abilities": [
+            {
+                "name": "Mummy",
+                "url": "https://pokemondb.net/ability/mummy",
+                "description": "Contact with this Pokémon spreads this Ability."
+            }
+        ]
+    },
+    {
+        "number": 566,
+        "name": "Archen",
+        "url": "https://pokemondb.net/pokedex/archen",
+        "types": "Rock, Flying",
+        "height_cm": "50.0 cm",
+        "weight_kg": "9.5 kg",
+        "next_evolutions": "#0566 - Archen - https://pokemondb.net/pokedex/archen; #0567 - Archeops - https://pokemondb.net/pokedex/archeops",
+        "abilities": [
+            {
+                "name": "Defeatist",
+                "url": "https://pokemondb.net/ability/defeatist",
+                "description": "Lowers stats when HP becomes half or less."
+            }
+        ]
+    },
+    {
+        "number": 640,
+        "name": "Virizion",
+        "url": "https://pokemondb.net/pokedex/virizion",
+        "types": "Grass, Fighting",
+        "height_cm": "200.0 cm",
+        "weight_kg": "200.0 kg",
+        "next_evolutions": "",
+        "abilities": [
+            {
+                "name": "Justified",
+                "url": "https://pokemondb.net/ability/justified",
+                "description": "Raises Attack when hit by a Dark-type move."
+            }
+        ]
+    },
+    {
+        "number": 643,
+        "name": "Reshiram",
+        "url": "https://pokemondb.net/pokedex/reshiram",
+        "types": "Dragon, Fire",
+        "height_cm": "320.0 cm",
+        "weight_kg": "330.0 kg",
+        "next_evolutions": "",
+        "abilities": [
+            {
+                "name": "Turboblaze",
+                "url": "https://pokemondb.net/ability/turboblaze",
+                "description": "Moves can be used regardless of Abilities."
+            }
+        ]
+    },
+    {
+        "number": 644,
+        "name": "Zekrom",
+        "url": "https://pokemondb.net/pokedex/zekrom",
+        "types": "Dragon, Electric",
+        "height_cm": "290.0 cm",
+        "weight_kg": "345.0 kg",
+        "next_evolutions": "",
+        "abilities": [
+            {
+                "name": "Teravolt",
+                "url": "https://pokemondb.net/ability/teravolt",
+                "description": "Moves can be used regardless of Abilities."
+            }
+        ]
+    },
+    {
+        "number": 676,
+        "name": "Furfrou",
+        "url": "https://pokemondb.net/pokedex/furfrou",
+        "types": "Normal",
+        "height_cm": "120.0 cm",
+        "weight_kg": "28.0 kg",
+        "next_evolutions": "",
+        "abilities": [
+            {
+                "name": "Fur Coat",
+                "url": "https://pokemondb.net/ability/fur-coat",
+                "description": "Halves damage from physical moves."
+            }
+        ]
+    },
+    {
+        "number": 699,
+        "name": "Aurorus",
+        "url": "https://pokemondb.net/pokedex/aurorus",
+        "types": "Rock, Ice",
+        "height_cm": "270.0 cm",
+        "weight_kg": "225.0 kg",
+        "next_evolutions": "#0698 - Amaura - https://pokemondb.net/pokedex/amaura; #0699 - Aurorus - https://pokemondb.net/pokedex/aurorus",
+        "abilities": [
+            {
+                "name": "Refrigerate",
+                "url": "https://pokemondb.net/ability/refrigerate",
+                "description": "Normal-type moves become Ice-type moves."
+            },
+            {
+                "name": "Snow Warning",
+                "url": "https://pokemondb.net/ability/snow-warning",
+                "description": "The Pokémon summons a hailstorm in battle."
+            }
+        ]
+    },
+    {
+        "number": 716,
+        "name": "Xerneas",
+        "url": "https://pokemondb.net/pokedex/xerneas",
+        "types": "Fairy",
+        "height_cm": "300.0 cm",
+        "weight_kg": "215.0 kg",
+        "next_evolutions": "",
+        "abilities": [
+            {
+                "name": "Fairy Aura",
+                "url": "https://pokemondb.net/ability/fairy-aura",
+                "description": "Powers up each Pokémon’s Fairy-type moves."
+            }
+        ]
+    },
+    {
+        "number": 717,
+        "name": "Yveltal",
+        "url": "https://pokemondb.net/pokedex/yveltal",
+        "types": "Dark, Flying",
+        "height_cm": "580.0 cm",
+        "weight_kg": "203.0 kg",
+        "next_evolutions": "",
+        "abilities": [
+            {
+                "name": "Dark Aura",
+                "url": "https://pokemondb.net/ability/dark-aura",
+                "description": "Powers up each Pokémon’s Dark-type moves."
+            }
+        ]
+    },
+    {
+        "number": 737,
+        "name": "Charjabug",
+        "url": "https://pokemondb.net/pokedex/charjabug",
+        "types": "Bug, Electric",
+        "height_cm": "50.0 cm",
+        "weight_kg": "10.5 kg",
+        "next_evolutions": "#0736 - Grubbin - https://pokemondb.net/pokedex/grubbin; #0737 - Charjabug - https://pokemondb.net/pokedex/charjabug; #0738 - Vikavolt - https://pokemondb.net/pokedex/vikavolt",
+        "abilities": [
+            {
+                "name": "Battery",
+                "url": "https://pokemondb.net/ability/battery",
+                "description": "Powers up ally Pokémon’s special moves."
+            }
+        ]
+    },
+    {
+        "number": 767,
+        "name": "Wimpod",
+        "url": "https://pokemondb.net/pokedex/wimpod",
+        "types": "Bug, Water",
+        "height_cm": "50.0 cm",
+        "weight_kg": "12.0 kg",
+        "next_evolutions": "#0767 - Wimpod - https://pokemondb.net/pokedex/wimpod; #0768 - Golisopod - https://pokemondb.net/pokedex/golisopod",
+        "abilities": [
+            {
+                "name": "Wimp Out",
+                "url": "https://pokemondb.net/ability/wimp-out",
+                "description": "The Pokémon cowardly switches out when its HP becomes half or less."
+            }
+        ]
+    },
+    {
+        "number": 768,
+        "name": "Golisopod",
+        "url": "https://pokemondb.net/pokedex/golisopod",
+        "types": "Bug, Water",
+        "height_cm": "200.0 cm",
+        "weight_kg": "108.0 kg",
+        "next_evolutions": "#0767 - Wimpod - https://pokemondb.net/pokedex/wimpod; #0768 - Golisopod - https://pokemondb.net/pokedex/golisopod",
+        "abilities": [
+            {
+                "name": "Emergency Exit",
+                "url": "https://pokemondb.net/ability/emergency-exit",
+                "description": "The Pokémon, sensing danger, switches out when its HP becomes half or less."
+            }
+        ]
+    },
+    {
+        "number": 773,
+        "name": "Silvally",
+        "url": "https://pokemondb.net/pokedex/silvally",
+        "types": "Normal",
+        "height_cm": "230.0 cm",
+        "weight_kg": "100.5 kg",
+        "next_evolutions": "#0772 - Type: Null - https://pokemondb.net/pokedex/type-null; #0773 - Silvally - https://pokemondb.net/pokedex/silvally",
+        "abilities": [
+            {
+                "name": "RKS System",
+                "url": "https://pokemondb.net/ability/rks-system",
+                "description": "Changes the Pokémon’s type to match the memory disc it holds."
+            }
+        ]
+    },
+    {
+        "number": 775,
+        "name": "Komala",
+        "url": "https://pokemondb.net/pokedex/komala",
+        "types": "Normal",
+        "height_cm": "40.0 cm",
+        "weight_kg": "19.9 kg",
+        "next_evolutions": "",
+        "abilities": [
+            {
+                "name": "Comatose",
+                "url": "https://pokemondb.net/ability/comatose",
+                "description": "It’s always drowsing and will never wake up. It can attack without waking up."
+            }
+        ]
+    },
+    {
+        "number": 778,
+        "name": "Mimikyu",
+        "url": "https://pokemondb.net/pokedex/mimikyu",
+        "types": "Ghost, Fairy",
+        "height_cm": "20.0 cm",
+        "weight_kg": "0.7 kg",
+        "next_evolutions": "",
+        "abilities": [
+            {
+                "name": "Disguise",
+                "url": "https://pokemondb.net/ability/disguise",
+                "description": "Once per battle, the shroud that covers the Pokémon can protect it from an attack."
+            }
+        ]
+    },
+    {
+        "number": 781,
+        "name": "Dhelmise",
+        "url": "https://pokemondb.net/pokedex/dhelmise",
+        "types": "Ghost, Grass",
+        "height_cm": "390.0 cm",
+        "weight_kg": "210.0 kg",
+        "next_evolutions": "",
+        "abilities": [
+            {
+                "name": "Steelworker",
+                "url": "https://pokemondb.net/ability/steelworker",
+                "description": "Powers up Steel-type moves."
+            }
+        ]
+    },
+    {
+        "number": 791,
+        "name": "Solgaleo",
+        "url": "https://pokemondb.net/pokedex/solgaleo",
+        "types": "Psychic, Steel",
+        "height_cm": "340.0 cm",
+        "weight_kg": "230.0 kg",
+        "next_evolutions": "#0789 - Cosmog - https://pokemondb.net/pokedex/cosmog; #0790 - Cosmoem - https://pokemondb.net/pokedex/cosmoem; #0791 - Solgaleo - https://pokemondb.net/pokedex/solgaleo; #0792 - Lunala - https://pokemondb.net/pokedex/lunala",
+        "abilities": [
+            {
+                "name": "Full Metal Body",
+                "url": "https://pokemondb.net/ability/full-metal-body",
+                "description": "Prevents other Pokémon’s moves or Abilities from lowering the Pokémon’s stats."
+            }
+        ]
+    },
+    {
+        "number": 792,
+        "name": "Lunala",
+        "url": "https://pokemondb.net/pokedex/lunala",
+        "types": "Psychic, Ghost",
+        "height_cm": "400.0 cm",
+        "weight_kg": "120.0 kg",
+        "next_evolutions": "#0789 - Cosmog - https://pokemondb.net/pokedex/cosmog; #0790 - Cosmoem - https://pokemondb.net/pokedex/cosmoem; #0791 - Solgaleo - https://pokemondb.net/pokedex/solgaleo; #0792 - Lunala - https://pokemondb.net/pokedex/lunala",
+        "abilities": [
+            {
+                "name": "Shadow Shield",
+                "url": "https://pokemondb.net/ability/shadow-shield",
+                "description": "Reduces the amount of damage the Pokémon takes while its HP is full."
+            }
+        ]
+    },
+    {
+        "number": 799,
+        "name": "Guzzlord",
+        "url": "https://pokemondb.net/pokedex/guzzlord",
+        "types": "Dark, Dragon",
+        "height_cm": "550.0 cm",
+        "weight_kg": "888.0 kg",
+        "next_evolutions": "",
+        "abilities": [
+            {
+                "name": "Beast Boost",
+                "url": "https://pokemondb.net/ability/beast-boost",
+                "description": "The Pokémon boosts its most proficient stat each time it knocks out a Pokémon."
+            }
+        ]
+    },
+    {
+        "number": 801,
+        "name": "Magearna",
+        "url": "https://pokemondb.net/pokedex/magearna",
+        "types": "Steel, Fairy",
+        "height_cm": "100.0 cm",
+        "weight_kg": "80.5 kg",
+        "next_evolutions": "",
+        "abilities": [
+            {
+                "name": "Soul-Heart",
+                "url": "https://pokemondb.net/ability/soul-heart",
+                "description": "Boosts its Sp. Atk stat every time a Pokémon faints."
+            }
+        ]
+    },
+    {
+        "number": 808,
+        "name": "Meltan",
+        "url": "https://pokemondb.net/pokedex/meltan",
+        "types": "Steel",
+        "height_cm": "20.0 cm",
+        "weight_kg": "8.0 kg",
+        "next_evolutions": "#0808 - Meltan - https://pokemondb.net/pokedex/meltan; #0809 - Melmetal - https://pokemondb.net/pokedex/melmetal",
+        "abilities": [
+            {
+                "name": "Magnet Pull",
+                "url": "https://pokemondb.net/ability/magnet-pull",
+                "description": "Traps STEEL-type POKéMON."
+            }
+        ]
+    },
+    {
+        "number": 836,
+        "name": "Boltund",
+        "url": "https://pokemondb.net/pokedex/boltund",
+        "types": "Electric",
+        "height_cm": "100.0 cm",
+        "weight_kg": "34.0 kg",
+        "next_evolutions": "#0835 - Yamper - https://pokemondb.net/pokedex/yamper; #0836 - Boltund - https://pokemondb.net/pokedex/boltund",
+        "abilities": [
+            {
+                "name": "Strong Jaw",
+                "url": "https://pokemondb.net/ability/strong-jaw",
+                "description": "The Pokémon’s strong jaw gives it tremendous biting power."
+            },
+            {
+                "name": "Competitive",
+                "url": "https://pokemondb.net/ability/competitive",
+                "description": "Boosts the Sp. Atk stat when a stat is lowered."
+            }
+        ]
+    },
+    {
+        "number": 845,
+        "name": "Cramorant",
+        "url": "https://pokemondb.net/pokedex/cramorant",
+        "types": "Flying, Water",
+        "height_cm": "80.0 cm",
+        "weight_kg": "18.0 kg",
+        "next_evolutions": "",
+        "abilities": [
+            {
+                "name": "Gulp Missile",
+                "url": "https://pokemondb.net/ability/gulp-missile",
+                "description": "When the Pokémon uses Surf or Dive, it will come back with prey. When it takes damage, it will spit out the prey to attack."
+            }
+        ]
+    },
+    {
+        "number": 867,
+        "name": "Runerigus",
+        "url": "https://pokemondb.net/pokedex/runerigus",
+        "types": "Ground, Ghost",
+        "height_cm": "160.0 cm",
+        "weight_kg": "66.6 kg",
+        "next_evolutions": "#0562 - Yamask - https://pokemondb.net/pokedex/yamask; #0563 - Cofagrigus - https://pokemondb.net/pokedex/cofagrigus; #0562 - Yamask - https://pokemondb.net/pokedex/yamask; #0867 - Runerigus - https://pokemondb.net/pokedex/runerigus",
+        "abilities": [
+            {
+                "name": "Wandering Spirit",
+                "url": "https://pokemondb.net/ability/wandering-spirit",
+                "description": "The Pokémon exchanges Abilities with a Pokémon that hits it with a move that makes direct contact."
+            }
+        ]
+    },
+    {
+        "number": 874,
+        "name": "Stonjourner",
+        "url": "https://pokemondb.net/pokedex/stonjourner",
+        "types": "Rock",
+        "height_cm": "250.0 cm",
+        "weight_kg": "520.0 kg",
+        "next_evolutions": "",
+        "abilities": [
+            {
+                "name": "Power Spot",
+                "url": "https://pokemondb.net/ability/power-spot",
+                "description": "Just being next to the Pokémon powers up moves."
+            }
+        ]
+    },
+    {
+        "number": 894,
+        "name": "Regieleki",
+        "url": "https://pokemondb.net/pokedex/regieleki",
+        "types": "Electric",
+        "height_cm": "120.0 cm",
+        "weight_kg": "145.0 kg",
+        "next_evolutions": "",
+        "abilities": [
+            {
+                "name": "Transistor",
+                "url": "https://pokemondb.net/ability/transistor",
+                "description": "Powers up Electric-type moves."
+            }
+        ]
+    },
+    {
+        "number": 895,
+        "name": "Regidrago",
+        "url": "https://pokemondb.net/pokedex/regidrago",
+        "types": "Dragon",
+        "height_cm": "210.0 cm",
+        "weight_kg": "200.0 kg",
+        "next_evolutions": "",
+        "abilities": [
+            {
+                "name": "Dragon's Maw",
+                "url": "https://pokemondb.net/ability/dragons-maw",
+                "description": "Powers up Dragon-type moves."
+            }
+        ]
+    },
+    {
+        "number": 896,
+        "name": "Glastrier",
+        "url": "https://pokemondb.net/pokedex/glastrier",
+        "types": "Ice",
+        "height_cm": "220.0 cm",
+        "weight_kg": "800.0 kg",
+        "next_evolutions": "",
+        "abilities": [
+            {
+                "name": "Chilling Neigh",
+                "url": "https://pokemondb.net/ability/chilling-neigh",
+                "description": "When the Pokémon knocks out a target, it utters a chilling neigh, which boosts its Attack stat."
+            }
+        ]
+    },
+    {
+        "number": 897,
+        "name": "Spectrier",
+        "url": "https://pokemondb.net/pokedex/spectrier",
+        "types": "Ghost",
+        "height_cm": "200.0 cm",
+        "weight_kg": "44.5 kg",
+        "next_evolutions": "",
+        "abilities": [
+            {
+                "name": "Grim Neigh",
+                "url": "https://pokemondb.net/ability/grim-neigh",
+                "description": "When the Pokémon knocks out a target, it utters a terrifying neigh, which boosts its Sp. Atk stat."
+            }
+        ]
+    },
+    {
+        "number": 927,
+        "name": "Dachsbun",
+        "url": "https://pokemondb.net/pokedex/dachsbun",
+        "types": "Fairy",
+        "height_cm": "50.0 cm",
+        "weight_kg": "14.9 kg",
+        "next_evolutions": "#0926 - Fidough - https://pokemondb.net/pokedex/fidough; #0927 - Dachsbun - https://pokemondb.net/pokedex/dachsbun",
+        "abilities": [
+            {
+                "name": "Well-Baked Body",
+                "url": "https://pokemondb.net/ability/well-baked-body",
+                "description": "The Pokémon takes no damage when hit by Fire-type moves. Instead, its Defense stat is sharply boosted."
+            },
+            {
+                "name": "Aroma Veil",
+                "url": "https://pokemondb.net/ability/aroma-veil",
+                "description": "Protects allies from attacks that limit their move choices."
+            }
+        ]
+    },
+    {
+        "number": 949,
+        "name": "Toedscruel",
+        "url": "https://pokemondb.net/pokedex/toedscruel",
+        "types": "Ground, Grass",
+        "height_cm": "190.0 cm",
+        "weight_kg": "58.0 kg",
+        "next_evolutions": "#0948 - Toedscool - https://pokemondb.net/pokedex/toedscool; #0949 - Toedscruel - https://pokemondb.net/pokedex/toedscruel",
+        "abilities": [
+            {
+                "name": "Mycelium Might",
+                "url": "https://pokemondb.net/ability/mycelium-might",
+                "description": "The Pokémon will always act more slowly when using status moves, but these moves will be unimpeded by the Ability of the target."
+            }
+        ]
+    },
+    {
+        "number": 970,
+        "name": "Glimmora",
+        "url": "https://pokemondb.net/pokedex/glimmora",
+        "types": "Rock, Poison",
+        "height_cm": "150.0 cm",
+        "weight_kg": "45.0 kg",
+        "next_evolutions": "#0969 - Glimmet - https://pokemondb.net/pokedex/glimmet; #0970 - Glimmora - https://pokemondb.net/pokedex/glimmora",
+        "abilities": [
+            {
+                "name": "Toxic Debris",
+                "url": "https://pokemondb.net/ability/toxic-debris",
+                "description": "Scatters poison spikes at the feet of the opposing team when the Pokémon takes damage from physical moves."
+            },
+            {
+                "name": "Corrosion",
+                "url": "https://pokemondb.net/ability/corrosion",
+                "description": "The Pokémon can poison the target even if it’s a Steel or Poison type."
+            }
+        ]
+    },
+    {
+        "number": 978,
+        "name": "Tatsugiri",
+        "url": "https://pokemondb.net/pokedex/tatsugiri",
+        "types": "Dragon, Water",
+        "height_cm": "30.0 cm",
+        "weight_kg": "8.0 kg",
+        "next_evolutions": "",
+        "abilities": [
+            {
+                "name": "Commander",
+                "url": "https://pokemondb.net/ability/commander",
+                "description": "When the Pokémon enters a battle, it goes inside the mouth of an ally Dondozo if one is on the field. The Pokémon then issues commands from there."
+            },
+            {
+                "name": "Storm Drain",
+                "url": "https://pokemondb.net/ability/storm-drain",
+                "description": "The Pokémon draws in all Water-type moves."
+            }
+        ]
+    },
+    {
+        "number": 989,
+        "name": "Sandy Shocks",
+        "url": "https://pokemondb.net/pokedex/sandy-shocks",
+        "types": "Electric, Ground",
+        "height_cm": "230.0 cm",
+        "weight_kg": "60.0 kg",
+        "next_evolutions": "",
+        "abilities": [
+            {
+                "name": "Protosynthesis",
+                "url": "https://pokemondb.net/ability/protosynthesis",
+                "description": "Boosts the Pokémon’s most proficient stat in harsh sunlight or if the Pokémon is holding Booster Energy."
+            }
+        ]
+    },
+    {
+        "number": 993,
+        "name": "Iron Jugulis",
+        "url": "https://pokemondb.net/pokedex/iron-jugulis",
+        "types": "Dark, Flying",
+        "height_cm": "130.0 cm",
+        "weight_kg": "111.0 kg",
+        "next_evolutions": "",
+        "abilities": [
+            {
+                "name": "Quark Drive",
+                "url": "https://pokemondb.net/ability/quark-drive",
+                "description": "Boosts the Pokémon’s most proficient stat on Electric Terrain or if the Pokémon is holding Booster Energy."
+            }
+        ]
+    },
+    {
+        "number": 1000,
+        "name": "Gholdengo",
+        "url": "https://pokemondb.net/pokedex/gholdengo",
+        "types": "Steel, Ghost",
+        "height_cm": "120.0 cm",
+        "weight_kg": "30.0 kg",
+        "next_evolutions": "#0999 - Gimmighoul - https://pokemondb.net/pokedex/gimmighoul; #1000 - Gholdengo - https://pokemondb.net/pokedex/gholdengo",
+        "abilities": [
+            {
+                "name": "Good as Gold",
+                "url": "https://pokemondb.net/ability/good-as-gold",
+                "description": "A body of pure, solid gold gives the Pokémon full immunity to other Pokémon’s status moves."
+            }
+        ]
+    },
+    {
+        "number": 1001,
+        "name": "Wo-Chien",
+        "url": "https://pokemondb.net/pokedex/wo-chien",
+        "types": "Dark, Grass",
+        "height_cm": "150.0 cm",
+        "weight_kg": "74.2 kg",
+        "next_evolutions": "",
+        "abilities": [
+            {
+                "name": "Tablets of Ruin",
+                "url": "https://pokemondb.net/ability/tablets-of-ruin",
+                "description": "The power of the Pokémon’s ruinous wooden tablets lowers the Attack stats of all Pokémon except itself."
+            }
+        ]
+    },
+    {
+        "number": 1002,
+        "name": "Chien-Pao",
+        "url": "https://pokemondb.net/pokedex/chien-pao",
+        "types": "Dark, Ice",
+        "height_cm": "190.0 cm",
+        "weight_kg": "152.2 kg",
+        "next_evolutions": "",
+        "abilities": [
+            {
+                "name": "Sword of Ruin",
+                "url": "https://pokemondb.net/ability/sword-of-ruin",
+                "description": "The power of the Pokémon’s ruinous sword lowers the Defense stats of all Pokémon except itself."
+            }
+        ]
+    },
+    {
+        "number": 1003,
+        "name": "Ting-Lu",
+        "url": "https://pokemondb.net/pokedex/ting-lu",
+        "types": "Dark, Ground",
+        "height_cm": "270.0 cm",
+        "weight_kg": "699.7 kg",
+        "next_evolutions": "",
+        "abilities": [
+            {
+                "name": "Vessel of Ruin",
+                "url": "https://pokemondb.net/ability/vessel-of-ruin",
+                "description": "The power of the Pokémon’s ruinous vessel lowers the Sp. Atk stats of all Pokémon except itself."
+            }
+        ]
+    },
+    {
+        "number": 1004,
+        "name": "Chi-Yu",
+        "url": "https://pokemondb.net/pokedex/chi-yu",
+        "types": "Dark, Fire",
+        "height_cm": "40.0 cm",
+        "weight_kg": "4.9 kg",
+        "next_evolutions": "",
+        "abilities": [
+            {
+                "name": "Beads of Ruin",
+                "url": "https://pokemondb.net/ability/beads-of-ruin",
+                "description": "The power of the Pokémon’s ruinous beads lowers the Sp. Def stats of all Pokémon except itself."
+            }
+        ]
+    },
+    {
+        "number": 1007,
+        "name": "Koraidon",
+        "url": "https://pokemondb.net/pokedex/koraidon",
+        "types": "Fighting, Dragon",
+        "height_cm": "250.0 cm",
+        "weight_kg": "303.0 kg",
+        "next_evolutions": "",
+        "abilities": [
+            {
+                "name": "Orichalcum Pulse",
+                "url": "https://pokemondb.net/ability/orichalcum-pulse",
+                "description": "Turns the sunlight harsh when the Pokémon enters a battle. The ancient pulse thrumming through the Pokémon also boosts its Attack stat in harsh sunlight."
+            }
+        ]
+    },
+    {
+        "number": 1008,
+        "name": "Miraidon",
+        "url": "https://pokemondb.net/pokedex/miraidon",
+        "types": "Electric, Dragon",
+        "height_cm": "350.0 cm",
+        "weight_kg": "240.0 kg",
+        "next_evolutions": "",
+        "abilities": [
+            {
+                "name": "Hadron Engine",
+                "url": "https://pokemondb.net/ability/hadron-engine",
+                "description": "Turns the ground into Electric Terrain when the Pokémon enters a battle. The futuristic engine within the Pokémon also boosts its Sp. Atk stat on Electric Terrain."
+            }
+        ]
+    },
+    {
+        "number": 1024,
+        "name": "Terapagos",
+        "url": "https://pokemondb.net/pokedex/terapagos",
+        "types": "Normal",
+        "height_cm": "20.0 cm",
+        "weight_kg": "6.5 kg",
+        "next_evolutions": "",
+        "abilities": [
+            {
+                "name": "Tera Shift",
+                "url": "https://pokemondb.net/ability/tera-shift",
+                "description": "No description available"
+            },
+            {
+                "name": "Tera Shell",
+                "url": "https://pokemondb.net/ability/tera-shell",
+                "description": "No description available"
+            },
+            {
+                "name": "Teraform Zero",
+                "url": "https://pokemondb.net/ability/teraform-zero",
+                "description": "No description available"
+            }
+        ]
+    },
+    {
+        "number": 1025,
+        "name": "Pecharunt",
+        "url": "https://pokemondb.net/pokedex/pecharunt",
+        "types": "Poison, Ghost",
+        "height_cm": "30.0 cm",
+        "weight_kg": "0.3 kg",
+        "next_evolutions": "",
+        "abilities": [
+            {
+                "name": "Poison Puppeteer",
+                "url": "https://pokemondb.net/ability/poison-puppeteer",
+                "description": "No description available"
+            }
+        ]
+    }
+]

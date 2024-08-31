@@ -7,6 +7,7 @@ with open('file.json', 'r', encoding='utf-8') as f:
 
 df = pd.DataFrame(data)
 
+
 def convert_height(height):
     height_clean = re.sub(r'\(.*?\)', '', height).strip()
     height_clean = re.sub(r'[^\d.]+', '', height_clean)
@@ -17,10 +18,12 @@ def convert_height(height):
     centimeters = meters * 100
     return f"{centimeters:.1f} cm"
 
+
 def convert_weight(weight):
     weight_clean = re.sub(r'\(.*?\)', '', weight).strip()
     weight_clean = weight_clean.replace('Â', '').replace('\u00a0', ' ')
     return weight_clean
+
 
 def remove_duplicates(items):
     seen = set()
@@ -31,6 +34,7 @@ def remove_duplicates(items):
             seen.add(item_tuple)
             result.append(item)
     return result
+
 
 df['height_cm'] = df['height_cm'].apply(convert_height)
 df['weight_kg'] = df['weight_kg'].apply(convert_weight)
